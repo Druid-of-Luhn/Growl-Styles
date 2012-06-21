@@ -13,7 +13,10 @@ created _yourself_, and unless really awful, it should be included soon after.
 <a name="list"></a>
 ## List of the styles
 
-* Windows 8 – by Billy Brown
+* Windows 8 blue – by Billy Brown
+* Windows 8 green – by Billy Brown
+* Windows 8 orange – by Billy Brown
+* Windows 8 purple – by Billy Brown
 
 ### Other nice styles
 
