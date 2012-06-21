@@ -1,0 +1,39 @@
+body {
+	border: 2px solid #46c;
+	color: white;
+	font-family: Myriad Pro, Helvetica, sans-serif;
+	min-height: 51px;
+	padding: 6px;
+	position: relative;
+	right: 0;
+}
+
+#background {
+	background-color: #57d;
+}
+
+#icon {
+	float: left;
+	height: 100%;
+	margin-right: 5px;
+	width: 32px;
+}
+
+#icon img {
+	height: 32px;
+	width: 32px;
+}
+
+#title {
+	font-size: 14px;
+	font-weight: bold;
+	text-shadow: 0 -1px #005;
+}
+
+#text {
+	font-size: 12px;
+}
+
+#emergency #title {
+	color: orange;
+}

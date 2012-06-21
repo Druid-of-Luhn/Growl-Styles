@@ -1,13 +1,11 @@
 body {
-	-webkit-animation: appear .5s;
 	border: 2px solid #080;
 	color: white;
 	font-family: Myriad Pro, Helvetica, sans-serif;
 	min-height: 51px;
 	padding: 6px;
-	position: absolute;
+	position: relative;
 	right: 0;
-	width: 250px;
 }
 
 #background {
@@ -16,14 +14,14 @@ body {
 
 #icon {
 	float: left;
-	height: 50px;
+	height: 100%;
 	margin-right: 5px;
-	width: 50px;
+	width: 32px;
 }
 
 #icon img {
-	height: 50px;
-	width: 50px;
+	height: 32px;
+	width: 32px;
 }
 
 #title {
@@ -38,9 +36,4 @@ body {
 
 #emergency #title {
 	color: red;
-}
-
-@-webkit-keyframes appear {
-	0%   { right: -100%; }
-	100% { right: 0; }
 }
