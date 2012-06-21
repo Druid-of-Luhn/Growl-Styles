@@ -42,6 +42,8 @@ scratch by myself.
 * Windows 8 orange – by Billy Brown
 * Windows 8 purple – by Billy Brown
 
+![Growl Styles](http://i1124.photobucket.com/albums/l565/Druid_of_Luhn/screenshot2012-06-21at191027.png "Growl Styles")
+
 ### Other nice styles
 
 * [Mountain Lion](http://dribbble.com/shots/475237-Mountain-Lion-DP-2-Growl-Theme) – by Benjamin Crozat on Dribbble
