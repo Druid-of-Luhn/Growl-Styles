@@ -14,7 +14,10 @@ created _yourself_, and unless really awful, it should be included soon after.
 ## List of the styles
 
 * Windows 8 – by Billy Brown
-* [Mountain Lion](http://dribbble.com/shots/475237-Mountain-Lion-DP-2-Growl-Theme) – by Benjamin Crozat
+
+### Other nice styles
+
+* [Mountain Lion](http://dribbble.com/shots/475237-Mountain-Lion-DP-2-Growl-Theme) – by Benjamin Crozat on Dribbble
 
 		More to come...
 
