@@ -1,5 +1,5 @@
 body {
-	border: 2px solid #46c;
+	border: 2px solid #46b;
 	color: white;
 	font-family: Myriad Pro, Helvetica, sans-serif;
 	min-height: 51px;
@@ -9,7 +9,7 @@ body {
 }
 
 #background {
-	background-color: #57d;
+	background-color: #46c;
 }
 
 #icon {
