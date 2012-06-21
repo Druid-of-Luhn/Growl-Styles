@@ -2,8 +2,8 @@
 
 #### A compilation of styles for the [Growl App](http://growl.info)
 
-Anybody may create styles for Growl and push them to this repository.
-Unless really awful they should be included soon after.
+This repository is made for _your_ Growl styles. Just push a style you
+created _yourself_, and unless really awful, it should be included soon after.
 
 ## Terms
 
