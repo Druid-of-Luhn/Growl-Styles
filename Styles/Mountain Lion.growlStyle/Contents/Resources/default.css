@@ -7,9 +7,14 @@ body {
 	-webkit-box-sizing: border-box;
 	color: #222;
 	font-family: Myriad Pro, Helvetica, sans-serif;
+	-webkit-hyphens: auto;
+	margin: 5px;
+	max-width: 280px;
+	min-height: 51px;
 	padding: 6px;
 	position: relative;
 	right: 0;
+	width: 280px;
 }
 
 #background {
@@ -20,7 +25,7 @@ body {
 	float: left;
 	height: 100%;
 	margin-right: 10px;
-	padding: 5px 10px 0;
+	padding: 0 10px;
 	width: 36px;
 }
 

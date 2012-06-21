@@ -2,10 +2,12 @@ body {
 	border: 2px solid #080;
 	color: white;
 	font-family: Myriad Pro, Helvetica, sans-serif;
+	max-width: 280px;
 	min-height: 51px;
 	padding: 6px;
 	position: relative;
 	right: 0;
+	width: 280px;
 }
 
 #background {
