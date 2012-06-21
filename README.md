@@ -16,7 +16,7 @@ created _yourself_, and unless really awful, it should be included soon after.
 * Windows 8 – by Billy Brown
 * [Mountain Lion](http://dribbble.com/shots/475237-Mountain-Lion-DP-2-Growl-Theme) – by Benjamin Crozat
 
-	More to come...
+		More to come...
 
 <a name="terms"></a>
 ## Terms
