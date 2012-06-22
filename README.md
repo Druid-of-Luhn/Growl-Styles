@@ -25,18 +25,26 @@ page, as they are ones that I like but do not have the rights to.
 ### Mountain Lion – by Billy Brown
 
 This is a style I created that replicates the OS X Mountain Lion notification
-design. It is completely built from scratch by myself.
+design. It may not be perfect seeing as I do not have Mountain Lion (yet).
+It is completely built from scratch by myself.
+
+### OS X Window
+
+This style aims to replicate silver heading of windows in Mac OS X. It does not
+have rounded corners, however the rest keeps the same beautifully sleek style
+that you see whenever you open an application on OS X.
 
 ### Windows 8
 
 These styles are created to replicate the Windows 8 notification popups, albeit
-with a little more style to make them look nicer. They are also built from
-scratch by myself.
+with a little more style to make them look nicer. The different colours are not
+the exact same as those from Windows 8.
 
 <a name="list"></a>
 ## List of the styles
 
 * Mountain Lion – by Billy Brown
+* OS X Window – by Billy Brown
 * Windows 8 blue – by Billy Brown
 * Windows 8 green – by Billy Brown
 * Windows 8 orange – by Billy Brown
