@@ -50,7 +50,7 @@ the exact same as those from Windows 8.
 * Windows 8 orange – by Billy Brown
 * Windows 8 purple – by Billy Brown
 
-![Growl Styles](http://i1124.photobucket.com/albums/l565/Druid_of_Luhn/screenshot2012-06-21at191027.png "Growl Styles")
+![Growl Styles](http://i1124.photobucket.com/albums/l565/Druid_of_Luhn/growlstyles.png "Growl Styles")
 
 ### Other nice styles
 
