@@ -41,7 +41,13 @@ body {
 
 #text {
 	font-size: 12px;
+  -webkit-hyphens: auto;
+	-moz-hyphens: auto;
+	hyphens: auto;
 	padding-left: 51px;
+	-ms-word-break: break-all;
+	word-break: break-all;
+	word-break: break-word;
 }
 
 #emergency #title {
