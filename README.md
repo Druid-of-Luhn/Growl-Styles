@@ -9,7 +9,7 @@ created _yourself_, and unless really awful, it should be included soon after.
 
 * [About](#about)
 * [List of Styles](#list)
-* [Terms](#terms)
+* [License](#license)
 
 <a name="about"></a>
 ## About
@@ -58,10 +58,7 @@ the exact same as those from Windows 8.
 
 		More to come...
 
-<a name="terms"></a>
-## Terms
+<a name="license"></a>
+## License
 
-Anybody may use and edit these styles as long as the name of the original
-creator is in the .plist file. You may share the styles with others as
-long as you do not take the full credit (unless you created the style from
-scratch).
+This project is distributed under the Mozilla Public License version 2.0. See LICENSE for details.
